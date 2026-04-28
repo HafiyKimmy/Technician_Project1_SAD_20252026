@@ -2,6 +2,7 @@
 
 ## Members 
 - Leader: Muhammad Hafizuddin
-
-
-* hi
+- Members:
+    1. hi
+    2. hi
+    3. ji
